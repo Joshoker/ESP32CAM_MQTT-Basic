@@ -66,7 +66,7 @@ https://github.com/knolleary/pubsubclient
 
   
 
-El flow de NodeRed lee en el tema `codigo IoT/ejemplo/mqtt` y publica en el tema `codigo IoT/ejemplo/mqttinp`, por lo que deberás configurar los nodos MQTT para conectarse a estos temas y al broker de tu elección.
+El flow de NodeRed lee en el tema `codigoIoT/ejemplo/mqtt` y publica en el tema `codigoIoT/ejemplo/mqttinp`, por lo que deberás configurar los nodos MQTT para conectarse a estos temas y al broker de tu elección.
 
   
 
